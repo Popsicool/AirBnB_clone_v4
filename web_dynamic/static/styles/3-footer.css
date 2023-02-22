@@ -14,13 +14,3 @@ footer p {
     right: 0;
     left: 0;
 }
-
-#api_status{
-    text-align: right;
-    border-radius: 50%;
-    margin-right: 30px;
-    background-color: #cccccc;
-}
-.available{
-    background-color: #ff545f;
-}
